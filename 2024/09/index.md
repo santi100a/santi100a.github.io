@@ -1,6 +1,6 @@
-# The Santinian Times (September 2024)
+# The Santinian Times (septiembre de 2024)
 
-1. [September 2nd](times_09-02-2024.md)
-   * [Huge Blow To Santinian Culture Takes Place, Federal Ban On Gayness Is Lifted](times_09-02-2024.md#huge-blow-to-santinian-culture-takes-place-federal-ban-on-gayness-is-lifted)
-2. [September 17th](times_09-17-2024.md)
-   * [Santipolis Spring: Premier Jimenez and Vice-President Isabela QUIT Their Positions, President Rojas Activates Emergency State](times_09-17-2024.md#santipolis-spring-premier-jimenez-and-vice-president-isabela-quit-their-positions-president-rojas-activates-emergency-state)
+1. [2 de septiembre](times_09-02-2024.md)
+   * [Duro golpe a la cultura santiniana: se levanta la prohibición federal a la homosexualidad](times_09-02-2024.md#duro-golpe-a-la-cultura-santiniana-se-levanta-la-prohibición-federal-a-la-homosexualidad)
+2. [17 de septiembre](times_09-17-2024.md)
+   * [Fin de la Primavera de Santípolis: Isabela y Jiménez renuncian, el Presidente Rojas activó el Estado de Emergencia](times_09-17-2024.md#fin-de-la-primavera-de-santípolis-isabela-y-jiménez-renuncian-el-presidente-rojas-activó-el-estado-de-emergencia)
