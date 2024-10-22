@@ -1,3 +1,3 @@
 # The Santinian Times
 
-The official news outlet of the Santinian Union.
+El medio de noticias oficial de la Unión Santiniana.
