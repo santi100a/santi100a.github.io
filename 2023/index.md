@@ -1,7 +1,7 @@
 # The Santinian Times (2023)
 
-[September 2023 articles](09)
+[Septiembre de 2023](09)
 
-[October 2023 articles](10)
+[Octubre de 2023](10)
 
-[November 2023 articles](11)
+[Noviembre de 2023](11)

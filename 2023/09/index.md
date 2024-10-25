@@ -1,6 +1,6 @@
-# The Santinian Times (September 2023)
+# The Santinian Times (septiembre de 2023)
 
-1. [September 6th](times_09-06-2023.md)
-   * [Upper economy flourishes today as the King's financial victory causes transcendental growth](times_09-06-2023.md#upper-economy-flourishes-today-as-the-kings-financial-victory-causes-transcendental-growth)
-2. [September 15th](times_09-15-2023.md)
-   * [A Summary of Economically Important Events at GCS's Cultural Week](times_09-15-2023.md#a-summary-of-economically-important-events-at-gcss-cultural-week)
+1. [6 de septiembre](times_09-06-2023.md)
+   * [La alta economía florece hoy; la victoria del Imperio Santiniano provoca un crecimiento trascendental](times_09-06-2023.md#la-alta-economía-florece-hoy-la-victoria-del-imperio-santiniano-provoca-un-crecimiento-trascendental)
+2. [15 de septiembre](times_09-15-2023.md)
+   * [Te resumimos la Semana Cultural de la CGS y su impacto económico en el Imperio](times_09-15-2023.md#te-resumimos-la-semana-cultural-de-la-cgs-y-su-impacto-económico-en-el-imperio)
