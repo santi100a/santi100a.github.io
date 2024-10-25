@@ -1,6 +1,6 @@
 # Bienvenido al Santinian Times
 
-*Estamos traduciendo todos nuestros artículos al español. Los artículos, especialmente los más antiguos, pueden tardar un poco en ser actualizados.*
+*Estamos traduciendo todos los artículos del 2023 al español. Los artículos de 2024 ya están traducidos completamente.*
 
 ## Titulares
 

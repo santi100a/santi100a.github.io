@@ -1,8 +1,8 @@
-# The Santinian Times (February 2024)
+# The Santinian Times (febrero de 2024)
 
-1. **[February 1st](times_02-01-2024.md)**
-   * [Today Marks One Year Since the Neo-Santinian Revolution, A Compendium of Reforms to Develop the Country, Rojas Holds Elections for the Outer Party](times_02-01-2024.md#today-marks-one-year-since-the-neo-santinian-revolution-a-compendium-of-reforms-to-develop-the-country-rojas-holds-elections-for-the-outer-party)
-2. [February 6th](times_02-06-2024.md)
-   * [Santinian International Trade Freezes due to Detachment from the Global Coalition of Societies, Superism is Canceled](times_02-06-2024.md#santinian-international-trade-freezes-due-to-detachment-from-the-global-coalition-of-societies-superism-is-canceled)
-3. **[February 21st](times_02-21-2024.md)**
-   * [Happy Flower Day! President Isabella's Birthday Marks the Foundation of the Santinian Union](times_02-21-2024.md#happy-flower-day-president-isabellas-birthday-marks-the-foundation-of-the-santinian-union)
+1. **[1 de febrero](times_02-01-2024.md)**
+   * [Primer aniversario de la Revolución Neosantinista (las reformas para impulsar a Santinia), el Rey Santiago hace elecciones](times_02-01-2024.md#primer-aniversario-de-la-revolución-neosantinista-las-reformas-para-impulsar-a-santinia-el-rey-santiago-hace-elecciones)
+2. [6 de febrero](times_02-06-2024.md)
+   * [El comercio internacional de Santinia se paralizó luego de tener que salir de la CGS, adiós al superismo](times_02-06-2024.md#el-comercio-internacional-de-santinia-se-paralizó-luego-de-tener-que-salir-de-la-cgs-adiós-al-superismo)
+3. **[21 de febrero](times_02-21-2024.md)**
+   * [¡Feliz Día de las Flores! Hoy cumple años la Vicepresidenta Isabela Murillo, el Imperio se convierte en la Unión Santiniana](times_02-21-2024.md#¡feliz-día-de-las-flores-hoy-cumple-años-la-vicepresidenta-isabela-murillo-el-imperio-se-convierte-en-la-unión-santiniana)
