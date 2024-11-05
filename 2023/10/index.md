@@ -1,7 +1,7 @@
 # The Santinian Times (octubre de 2023)
 
 1. [2 de octubre](times_10-02-2023.md)
-   * [Today, October Starts Spooky with Derrickland Deciding to Cut Ties](times_10-02-2023.md#today-october-starts-spooky-with-derrickland-deciding-to-cut-ties)
-2. [October 9th](times_10-09-2023.md)
-   * [Derrick Madison, Head of Derrickland, Calls It Quits On Santinia. Now What?](times_10-09-2023.md#derrick-madison-head-of-derrickland-calls-it-quits-on-santinia-now-what)
-   * [None of Santinia's Allies Seek Retaliation Against Madison, the Communist Party Decides to Spy On Him](times_10-09-2023.md#none-of-santinias-allies-seek-retaliation-against-madison-the-communist-party-decides-to-spy-on-him)
+   * [Octubre empezó mal: Corte de octubre, Derricklandia nos ha abandonado](times_10-02-2023.md#octubre-empezó-mal-corte-de-octubre-derricklandia-nos-ha-abandonado)
+2. [9 de octubre](times_10-09-2023.md)
+   * [Derrick Medina, líder de Derricklandia, abandona a Santinia. ¿Y ahora qué?](times_10-09-2023.md#derrick-medina-líder-de-derricklandia-abandona-a-santinia-¿y-ahora-qué)
+   * [Ninguno de los aliados de Santinia busca represalias contra Medina, el Partido Comunista decide espiarlo](times_10-09-2023.md#ninguno-de-los-aliados-de-santinia-busca-represalias-contra-medina-el-partido-comunista-decide-espiarlo)

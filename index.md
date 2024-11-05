@@ -1,7 +1,5 @@
 # Bienvenido al Santinian Times
 
-*Estamos traduciendo todos los artículos del 2023 al español. Los artículos de 2024 ya están traducidos completamente.*
-
 ## Titulares
 
 ### [Fin de las elecciones: ¿Cómo es el NUEVO Comité Central?](/2024/10/times_10-20-2024.md#fin-de-las-elecciones-¿cómo-es-el-nuevo-comité-central)
