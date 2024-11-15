@@ -10,5 +10,5 @@
 3. [27 de abril](times_04-27-2024.md)
    * [El Ejército Verde ha perdido la batalla de Pablogrado contra los guerrilleros amarillos](times_04-27-2024.md#el-ejército-verde-ha-perdido-la-batalla-de-pablogrado-contra-los-guerrilleros-amarillos)
 
-4. [April 28th](times_04-28-2024.md)
+4. [28 de abril](times_04-28-2024.md)
    * [Los líderes más destacados del Ejército Amarillo se han rendido: ganamos la guerra civil](times_04-28-2024.md#los-líderes-más-destacados-del-ejército-amarillo-se-han-rendido-ganamos-la-guerra-civil)
