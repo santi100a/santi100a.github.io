@@ -2,15 +2,17 @@
 
 ## Titulares
 
-### [Fin de las elecciones: ¿Cómo es el NUEVO Comité Central?](/2024/10/times_10-20-2024.md#fin-de-las-elecciones-¿cómo-es-el-nuevo-comité-central)
+* [Fin del período económico de 2024: pronto se publicará el resumen económico del segundo semestre](/2024/11/times_11-19-2024.md#fin-del-período-económico-de-2024-pronto-se-publicará-el-resumen-económico-del-segundo-semestre)
 
-### [Fin de la Primavera de Santípolis: Isabela y Jiménez renuncian, el Presidente Rojas activó el Estado de Emergencia](/2024/09/times_09-17-2024.md#fin-de-la-primavera-de-santípolis-isabela-y-jiménez-renuncian-el-presidente-rojas-activó-el-estado-de-emergencia)
+* [Tratado de Noviembre: Oscarlandia anula el Pacto de Julio y declara relaciones diplomáticas con la Unión Santiniana](/2024/11/times_11-12-2024.md#tratado-de-noviembre-oscarlandia-anula-el-pacto-de-julio-y-declara-relaciones-diplomáticas-con-la-unión-santiniana)
 
-### [Duro golpe a la economía santiniana: hemos sido traicionados por nuestros aliados de la CGS](/2024/08/times_08-28-2024.md#duro-golpe-a-la-economía-santiniana-hemos-sido-traicionados-por-nuestros-aliados-de-la-cgs)
+* [Fin de las elecciones: ¿Cómo es el NUEVO Comité Central?](/2024/10/times_10-20-2024.md#fin-de-las-elecciones-¿cómo-es-el-nuevo-comité-central)
+
+* [](/2024/10/times_10-18-2024.md)
 
 ## Resultados electorales
 
-* [Elecciones Generales de Comité Central 2024](/2024/10/times_10-20-2024.md#fin-de-las-elecciones-¿cómo-es-el-nuevo-comité-central)
+* [Elecciones Generales de Comité Central 2024](/2024/10/times_10-20-2024.md#resultados-de-las-elecciones-vicepresidente-general)
 
 ## Navega por nuestros artículos
 
