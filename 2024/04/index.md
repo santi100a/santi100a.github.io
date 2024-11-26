@@ -1,7 +1,7 @@
 # The Santinian Times (abril de 2024)
 
 1. **[13 DE ABRIL](times_04-13-2024.md)**
-   * [La paralización económica sorprende al presidente Rojas, quien esperaba un subidón](times_04-13-2024.md#economic-stagnation-takes-president-rojas-by-storm-he-expected-a-boom)
+   * [La paralización económica sorprende al presidente Rojas, quien esperaba un subidón](times_04-13-2024.md#la-paralización-económica-sorprende-al-presidente-rojas-que-esperaba-un-subidón)
    * [Inestabilidad política en Los Robles: funcionarios prominentes nos traicionaron, la presidenta Isabella llega tarde](times_04-13-2024.md#inestabilidad-política-en-los-robles-funcionarios-prominentes-nos-traicionaron-la-presidenta-isabela-llega-tarde)
 
 2. [20 de abril](times_04-20-2024.md)
