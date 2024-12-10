@@ -6,9 +6,8 @@
 
 * [Tratado de Noviembre: Oscarlandia anula el Pacto de Julio y declara relaciones diplomáticas con la Unión Santiniana](/2024/11/times_11-12-2024.md#tratado-de-noviembre-oscarlandia-anula-el-pacto-de-julio-y-declara-relaciones-diplomáticas-con-la-unión-santiniana)
 
-* [Fin de las elecciones: ¿Cómo es el NUEVO Comité Central?](/2024/10/times_10-20-2024.md#fin-de-las-elecciones-¿cómo-es-el-nuevo-comité-central)
-
 * [Dificultades territoriales: Jiménez ha trasladado Ciudad de Jiménez a otro lugar, ganaremos un nuevo estado. ¿Pero perderemos a Villa Liliana?](/2024/10/times_10-18-2024.md#dificultades-territoriales-jiménez-ha-trasladado-ciudad-de-jiménez-a-otro-lugar-ganaremos-un-nuevo-estado-¿pero-perderemos-a-villa-liliana)
+* [El gobernador Stiven Vargas fue despedido luego de ser reportado por múltiples fallas, Los Sauces quedó bajo control federal](/2024/12/times_12-09-2024.md#el-gobernador-stiven-vargas-fue-despedido-luego-de-ser-reportado-por-múltiples-fallas-los-sauces-quedó-bajo-control-federal)
 
 ## Resultados electorales
 
