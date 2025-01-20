@@ -1,11 +1,9 @@
 # Bienvenido al Santinian Times
 
-**_¡Feliz Año Nuevo 2025!_**
-
 ## Titulares
 
+* [Paz de Enero: Janna Rodríguez y compañía firman otra paz](/2025/01/times_01-19-2025.md#paz-de-enero-janna-rodríguez-y-compañía-firman-otra-paz)
 * [La República Federativa Socialista de Los Sutagaos, bajo el nuevo gobierno de Alan Sánchez, firma el Pacto de Buenapaz](/2025/01/times_01-09-2025.md#la-república-federativa-socialista-de-los-sutagaos-bajo-el-nuevo-gobierno-de-alan-sánchez-firma-el-pacto-de-buenapaz)
-* [Golpe de Diciembre: ha habido un intento de golpe de Estado en la Unión Santiniana](/2024/12/times_12-10-2024.md#golpe-de-diciembre-ha-habido-un-intento-de-golpe-de-estado-en-la-unión-santiniana)
 * [Se han aprobado los Concejos Estatales: aumenta la democracia en la Unión Santiniana](/2024/12/times_12-26-2024.md#se-han-aprobado-los-concejos-estatales-aumenta-la-democracia-en-la-unión-santiniana)
 
 ## Resultados electorales
