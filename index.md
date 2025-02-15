@@ -5,9 +5,9 @@ title: Bienvenido al Santinian Times
 
 ## Titulares
 
-* [Paz de Enero: Janna Rodríguez y compañía firman otra paz](/2025/01/times_01-19-2025.md#paz-de-enero-janna-rodríguez-y-compañía-firman-otra-paz)
-* [Segundo Aniversario del Neosantinismo va bien, pero Manuel Garzón exige elecciones](/2025/02/times_02-01-2025.md#segundo-aniversario-del-neosantinismo-va-bien-pero-manuel-garzón-exige-elecciones)
+* [En el Día del Amor, la Unión Santiniana recibe ingresos masivos](/2025/02/times_02-14-2025.md#en-el-día-del-amor-la-unión-santiniana-recibe-ingresos-masivos)
 * [Hoy se abre el comercio en la SAI, inicia el primer Plan Trimestral Estatal de 2025](/2025/02/times_02-05-2025.md#hoy-se-abre-el-comercio-en-la-sai-inicia-el-primer-plan-trimestral-estatal-de-2025)
+* [Segundo Aniversario del Neosantinismo va bien, pero Manuel Garzón exige elecciones](/2025/02/times_02-01-2025.md#segundo-aniversario-del-neosantinismo-va-bien-pero-manuel-garzón-exige-elecciones)
 
 ## Resultados electorales
 

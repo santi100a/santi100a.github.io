@@ -6,3 +6,5 @@
    * [Hoy se abre el comercio en la SAI, inicia el primer Plan Trimestral Estatal de 2025](times_02-05-2025.md#hoy-se-abre-el-comercio-en-la-sai-inicia-el-primer-plan-trimestral-estatal-de-2025)
 3. [7 de febrero](times_02-07-2025.md)
    * [Isabela Murillo se retira permanentemente tras seis años de servicio, Sebastián Jiménez pasa a ser vicepresidente](times_02-07-2025.md#isabela-murillo-se-retira-permanentemente-tras-seis-años-de-servicio-sebastián-jiménez-pasa-a-ser-vicepresidente)
+4. [14 de febrero](times_02-14-2025.md)
+   * [En el Día del Amor, la Unión Santiniana recibe ingresos masivos](times_02-14-2025.md#en-el-día-del-amor-la-unión-santiniana-recibe-ingresos-masivos)
