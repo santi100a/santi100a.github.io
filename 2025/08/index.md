@@ -1,4 +1,4 @@
-# The Santinian Times (agosto de 2025)
+# La Lucha (agosto de 2025)
 
 1. [20 de agosto](times_08-20-2025.md)
    * [Con los oscarlandeses siempre es lo mismo: Santinia es abandonada por una nimiedad](times_08-20-2025.md#con-los-oscarlandeses-siempre-es-lo-mismo-santinia-es-abandonada-por-una-nimiedad)

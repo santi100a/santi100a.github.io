@@ -1,4 +1,4 @@
-# The Santinian Times (2024)
+# La Lucha (2024)
 
 [Febrero de 2024](02)
 

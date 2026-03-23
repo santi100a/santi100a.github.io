@@ -1,4 +1,4 @@
-# The Santinian Times (septiembre de 2023)
+# La Lucha (septiembre de 2023)
 
 1. [6 de septiembre](times_09-06-2023.md)
    * [La alta economía florece hoy; la victoria del Imperio Santiniano provoca un crecimiento trascendental](times_09-06-2023.md#la-alta-economía-florece-hoy-la-victoria-del-imperio-santiniano-provoca-un-crecimiento-trascendental)

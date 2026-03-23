@@ -1,4 +1,4 @@
-# The Santinian Times (marzo de 2024)
+# La Lucha (marzo de 2024)
 
 1. [6 de marzo](times_03-06-2024.md)
    * [A Santinia le ha ido bien en la SAI, pero hoy no tanto](times_03-06-2024.md#a-santinia-le-ha-ido-bien-en-la-sai-pero-hoy-no-tanto)

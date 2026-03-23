@@ -1,4 +1,4 @@
-# The Santinian Times (octubre de 2023)
+# La Lucha (octubre de 2023)
 
 1. [2 de octubre](times_10-02-2023.md)
    * [Octubre empezó mal: Corte de octubre, Derricklandia nos ha abandonado](times_10-02-2023.md#octubre-empezó-mal-corte-de-octubre-derricklandia-nos-ha-abandonado)

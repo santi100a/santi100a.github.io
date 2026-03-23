@@ -1,4 +1,4 @@
-# The Santinian Times (noviembre de 2023)
+# La Lucha (noviembre de 2023)
 
 1. [15 de noviembre](times_11-15-2023.md)
    * [Restauración de Noviembre: las relaciones con Derricklandia vuelven a funcionar gracias al Tratado Super-Madison II](times_11-15-2023.md#restauración-de-noviembre-las-relaciones-con-derricklandia-vuelven-a-funcionar-gracias-al-tratado-super-madison-ii)

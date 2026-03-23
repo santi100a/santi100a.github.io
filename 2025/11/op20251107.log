@@ -1,0 +1,89 @@
+Freedom! bootloader unlock and vendor removal  
+  
+Connecting to Boot-ROM BIOS through device @:\devices\brom... DONE  
+Reading device info... DONE  
+  
+Device and system info:  
+  SoC model:    SR EX SoC  
+  Platform:     SR-150EX  
+  BL status:    LOCKED  
+  BIOS ver.:    3.0.5  
+  Disk type:    SCSI  
+  Disk size:    0x8e147ae147ae1 (2.22 PiB)  
+  Vendor:       OscarG 17 (C) 2008-2025 GC Corp. All rights reserved.  
+  System ver.:  SantiOS 15.6.7
+  
+Scanning SCSI bus... DONE  
+Detecting disks and partitions... DONE  
+  
+Partition data for Disk 0 (@:\devices\hd0 mbr 2.22 PiB):  
+  Partition 0 [BL]: type FAT16 (msdos), size 0x0000000001000000, primary, active, bl  
+  Partition 1 [SYSTEM]: type FAT32 (vfat), size 0x0000000800000000, primary, os  
+  Partition 2 [DATA]: type exFAT (exfat), size 0x0008e13fad147ae1, primary  
+  
+  
+Want to unlock: Partition 0 ("BL", size 16 MiB, msdos, @:\devices\hd0part0)  
+  
+STARTED: Step 1/3: Overwrite bootloader password via exploit  
+Awaiting connection to passthrough...  
+Initiating sideload...  
+Waiting... ERROR! Connection dropped 3016/4000 ms.  
+Retrying to reach 4000 ms...  
+Waiting... ERROR! Connection dropped 1356/4000 ms.  
+Cannot keep retrying at the moment  
+WARNING: Could not establish stable sideload, will continue anyways (total time > 4000 ms = OK)  
+  
+REACHED 4000 MILLISECONDS! Access to bootloader granted. Datetime: Fri Nov 07 2025 12:57:00 GMT-0500  
+Step 1/3 COMPLETED: Overwrite bootloader password  
+  
+STARTED: Step 2/3: Unlock bootloader  
+Unlock bootloader? (y/n) y  
+Unlocking partition...  
+  
+Boot-ROM is unlocking partition "bl".  
+[=====================>] 100%  
+  
+Operation completed successfully.  
+  
+Mounting partition "bl"... DONE  
+> mount @:\devices\hd0part0 X:  
+< mount: successfully mounted partition "bl" (FAT16, 16 MiB, rw) at X:  
+Step 2/3 COMPLETED: Unlock bootloader  
+  
+STARTED: Step 3/3: Remove vendor customizations  
+  
+Searching for \**\*VENDOR*.BIN files... DONE  
+Found 1 file(s):  
+    X:\VENDOR.BIN (size: 1 KiB)  
+  
+Removing vendor file X:\VENDOR.BIN... DONE  
+> del X:\VENDOR.BIN  
+< Successfully deleted file: X:\VENDOR.BIN  
+  
+Unmounting partition "bl"... DONE  
+> unmount X:  
+< unmount: successfully unmounted partition at X:  
+Step 3/3 COMPLETED: Remove vendor locking  
+  
+Lock bootloader again? (y/n) y  
+  
+Locking partition...  
+Boot-ROM is locking partition "bl".  
+[=====================>] 100%  
+  
+Operation completed successfully.  
+  
+Device and system info:  
+  SoC model:    SR EX SoC  
+  Platform:     SR-150EX  
+  Bootloader status: LOCKED  
+  BIOS ver.:    3.0.5  
+  Disk type:    SCSI  
+  Disk size:    0x8e147ae147ae1 (2.22 PiB)  
+  Vendor:       NONE  
+  System ver.:  SantiOS 15.6.7  
+  
+NOTE: Now the bootloader is locked again, but now it can be unlocked by the user. OTA writes are still allowed.  
+NOTE: To prevent vendor relocking, update your Boot-ROM BIOS - exploits have been patched. A full fix is underway.  
+  
+SUCCESS! All steps completed.

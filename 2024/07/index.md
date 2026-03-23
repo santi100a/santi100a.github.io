@@ -1,4 +1,4 @@
-# The Santinian Times (julio de 2024)
+# La Lucha (julio de 2024)
 
 1. [9 de julio](times_07-09-2024.md)
    * [El Presidente Rojas ha iniciado una pausa comercial luego del rechazo del Círculo 2 del Grupo de Apoyo](times_07-09-2024.md#el-presidente-rojas-ha-iniciado-una-pausa-comercial-luego-del-rechazo-del-círculo-2-del-grupo-de-apoyo)

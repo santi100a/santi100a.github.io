@@ -1,0 +1,10 @@
+# La Lucha (octubre de 2025)
+
+1. [14 de octubre](20251014.md)
+   * [¡Arriba el Ejército Verde! Tercer aniversario de la Batalla de Estebangrado celebrado en Santípolis D.F.](20251014.md#arriba-el-ejército-verde-tercer-aniversario-de-la-batalla-de-estebangrado-celebrado-en-santípolis-df)
+2. [15 de octubre](20251015.md)
+   * [¡Arriba el Ejército Verde! Tercer Día de la Victoria celebrado en Santípolis D.F.](20251015.md#arriba-el-ejército-verde-tercer-día-de-la-victoria-celebrado-en-santípolis-df)
+3. [16 de octubre](20251016.md)
+   * [Sebastián Jiménez se retira del cargo de Vicepresidente General por culpa de Omar Castillo](20251016.md#sebastián-jiménez-se-retira-del-cargo-de-vicepresidente-general-por-culpa-de-omar-castillo)
+4. [29 de octubre](20251029.md)
+   * [Enmienda constitucional: ahora todo el sector financiero es monopolio exclusivo del Estado](20251029.md#enmienda-constitucional-ahora-todo-el-sector-financiero-es-monopolio-exclusivo-del-estado)

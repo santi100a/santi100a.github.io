@@ -1,4 +1,4 @@
-# The Santinian Times (agosto de 2024)
+# La Lucha (agosto de 2024)
 
 1. [9 de agosto](times_08-09-2024.md)
    * [Rojas es acusado por el presunto activista internacional Manuel Garzón debido a nuestra gobernanza unipartidista](times_08-09-2024.md#rojas-es-acusado-por-el-presunto-activista-internacional-manuel-garzón-debido-a-nuestra-gobernanza-unipartidista)

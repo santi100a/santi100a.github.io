@@ -1,4 +1,4 @@
-# The Santinian Times (2025)
+# La Lucha (2025)
 
 [Enero de 2025](01)
 
@@ -11,3 +11,11 @@
 [Julio de 2025](07)
 
 [Agosto de 2025](08)
+
+[Septiembre de 2025](09)
+
+[Octubre de 2025](10)
+
+[Noviembre de 2025](11)
+
+[Diciembre de 2025](12)

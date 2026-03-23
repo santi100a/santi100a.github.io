@@ -1,4 +1,4 @@
-# The Santinian Times (febrero de 2024)
+# La Lucha (febrero de 2024)
 
 1. **[1 de febrero](times_02-01-2024.md)**
    * [Primer aniversario de la Revolución Neosantinista (las reformas para impulsar a Santinia), el Rey Santiago hace elecciones](times_02-01-2024.md#primer-aniversario-de-la-revolución-neosantinista-las-reformas-para-impulsar-a-santinia-el-rey-santiago-hace-elecciones)

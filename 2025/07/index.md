@@ -1,4 +1,4 @@
-# The Santinian Times (julio de 2025)
+# La Lucha (julio de 2025)
 
 1. [10 de julio](times_07-10-2025.md)
     * [¡Arriba el Ejército Verde! Tercer aniversario de la Batalla de Santiagópolis celebrado en Santípolis D.F.](times_07-10-2025.md#arriba-el-ejército-verde-tercer-aniversario-de-la-batalla-de-santiagópolis-celebrado-en-santípolis-df)

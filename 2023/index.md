@@ -1,4 +1,4 @@
-# The Santinian Times (2023)
+# La Lucha (2023)
 
 [Septiembre de 2023](09)
 

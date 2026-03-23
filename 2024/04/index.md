@@ -1,4 +1,4 @@
-# The Santinian Times (abril de 2024)
+# La Lucha (abril de 2024)
 
 1. **[13 DE ABRIL](times_04-13-2024.md)**
    * [La paralización económica sorprende al presidente Rojas, quien esperaba un subidón](times_04-13-2024.md#la-paralización-económica-sorprende-al-presidente-rojas-que-esperaba-un-subidón)

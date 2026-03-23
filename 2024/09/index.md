@@ -1,4 +1,4 @@
-# The Santinian Times (septiembre de 2024)
+# La Lucha (septiembre de 2024)
 
 1. [2 de septiembre](times_09-02-2024.md)
    * [Duro golpe a la cultura santiniana: se levanta la prohibición federal a la homosexualidad](times_09-02-2024.md#duro-golpe-a-la-cultura-santiniana-se-levanta-la-prohibición-federal-a-la-homosexualidad)

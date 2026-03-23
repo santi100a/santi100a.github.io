@@ -1,4 +1,4 @@
-# The Santinian Times (junio de 2024)
+# La Lucha (junio de 2024)
 
 1. [2 de junio](times_06-02-2024.md)
    * [Darwin Castaño proclamó la República Federal Socialista de Los Sutagaos tras visita del presidente Rojas](times_06-02-2024.md#darwin-castaño-proclamó-la-república-federal-socialista-de-los-sutagaos-tras-visita-del-presidente-rojas)
