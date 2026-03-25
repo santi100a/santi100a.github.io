@@ -5,10 +5,10 @@ title: Bienvenido al periódico "La Lucha"
 
 ## Titulares
 
+* [AVANCE: ¡Primer caso de corrupción en Santinia! Omar David Castillo, Primer Ministro, desterrado por el Tribunal Federal](20260324.md#avance-%C2%A1primer-caso-de-corrupci%C3%B3n-en-santinia-omar-david-castillo-primer-ministro-desterrado-por-el-tribunal-federal)
 * [Gran Despedida de Rojas: Hoy se retira el camarada Rojas de la Presidencia; el cargo lo asumió Isabella Murillo Rojas](/2025/12/20251202.md#gran-despedida-de-rojas-hoy-se-retira-el-camarada-rojas-de-la-presidencia-el-cargo-lo-asumi%C3%B3-isabella-murillo-rojas)
-* [Desde hoy, el "Santinian Times" se llamará "La Lucha"](/2025/03/20250322.md#desde-hoy-el-santinian-times-se-llamar%C3%A1-la-lucha)
+* [Desde hoy, el "Santinian Times" se llamará "La Lucha"](/2026/03/20260322.md#desde-hoy-el-santinian-times-se-llamar%C3%A1-la-lucha)
 * [¡Insólito! La Ley de Regulación Homosexual y Bisexual ha sido DEROGADA POR UNANIMIDAD del Comité Central](20260206.md#%C2%A1ins%C3%B3lito-la-ley-de-regulaci%C3%B3n-homosexual-y-bisexual-ha-sido-derogada-por-unanimidad-del-comit%C3%A9-central)
-* [¡Insólito! Mateo Cabrera, exguerrillero del Ejército Amarillo y disidente golpista, se une al Ejército Verde como General](/2025/11/20251119.md#%C2%A1ins%C3%B3lito-mateo-cabrera-exguerrillero-del-ej%C3%A9rcito-amarillo-y-disidente-golpista-se-une-al-ej%C3%A9rcito-verde-como-general)
 
 
 <!-- ESTOS TITULARES ESTÁN MÁS VIEJOS QUE YO... 
