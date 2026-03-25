@@ -1,0 +1,118 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            2b:7a:84:d6:b6:c6:75:1e:da:3b:4c:22:eb:79:2d:e8:25:0b:fb:b4
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=SU, ST=Los Robles, L=Sant\xC3\xADpolis, O=Super Santi Corp., CN=Autoridad de certificaci\xC3\xB3n intermedia - Super Santi Corp.
+        Validity
+            Not Before: Mar 25 03:51:10 2026 GMT
+            Not After : Mar 25 03:51:10 2027 GMT
+        Subject: C=SU, ST=Isabelgrado D.F., L=Isabelgrado D.F., O=Super Santi Corp., CN=Tribunal Federal de Santinia/emailAddress=supersanti.corp@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8b:22:e5:02:58:62:34:82:3f:4a:e1:af:27:ec:
+                    3a:82:8f:a1:c3:ce:8a:b1:28:13:ea:01:e1:ea:ca:
+                    58:25:f0:03:d1:e3:be:19:8d:71:d9:11:0c:e9:0d:
+                    e8:b9:13:47:4a:bf:29:e0:8d:f5:fa:ce:08:1b:46:
+                    bc:db:69:5f:e8:7b:9e:46:1c:0f:15:05:a4:28:a1:
+                    3d:05:a2:04:82:28:bc:d9:4b:3d:46:1f:fe:24:31:
+                    24:75:53:98:1e:8b:b7:d6:3c:f6:89:2b:6c:6f:2e:
+                    78:60:d3:a2:8b:e3:25:76:e1:2a:c3:28:53:07:ef:
+                    f7:38:a3:70:94:f6:23:94:5d:28:09:ba:44:cd:06:
+                    99:f7:79:22:e3:b4:b4:42:6f:40:15:52:cb:f0:15:
+                    d2:2a:ab:26:84:90:bf:0e:e0:17:58:82:3b:1f:09:
+                    60:44:7e:f2:09:0e:65:7c:f8:26:f0:a1:27:25:08:
+                    6a:57:d8:3d:23:50:b5:ca:9f:bb:ca:aa:b6:a3:f2:
+                    a3:36:64:3b:3c:b1:4c:73:c2:4e:19:7b:34:45:72:
+                    b0:aa:1c:5f:6d:49:02:32:77:93:86:22:11:e5:2c:
+                    e1:27:6c:e9:9e:8b:03:2f:75:a8:de:dc:67:11:f8:
+                    45:4c:10:79:9a:7c:91:31:8c:4d:b2:d5:44:2f:f1:
+                    ba:15
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation, Key Encipherment
+            X509v3 Extended Key Usage: 
+                E-mail Protection
+            X509v3 Subject Key Identifier: 
+                F2:88:54:12:68:E9:D5:2D:BA:16:DF:CC:74:72:14:E4:F0:DE:94:6A
+            X509v3 Authority Key Identifier: 
+                BE:18:FD:D3:50:2B:BD:52:29:86:BA:CF:6B:1A:1C:E2:49:40:18:70
+            X509v3 Subject Alternative Name: 
+                email:supersanti.corp@gmail.com
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://ssc-atestiloj.zapto.org/info-certificados/certificados-ssc.crl
+                Full Name:
+                  URI:https://super-santi-corp.github.io/info-certificados/certificados-ssc.crl
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        bd:88:e2:ff:6b:87:c1:c7:5b:95:96:32:11:fc:e1:ab:bd:1b:
+        41:cb:70:98:cd:72:22:a2:23:db:6c:bd:7d:33:19:db:9b:c2:
+        d3:d4:6e:8f:a3:51:47:b8:a8:97:2c:4f:82:7f:26:b0:65:fe:
+        66:de:f8:62:8a:ea:2f:eb:a8:63:22:ba:6f:a9:17:6a:44:05:
+        5b:91:e6:9f:59:92:e8:7b:71:5e:7d:30:be:d0:bf:ee:14:7c:
+        42:f9:81:a6:75:f4:5a:d8:6a:80:96:d3:84:f1:d1:23:0f:bf:
+        f4:97:55:06:36:52:aa:7a:16:b3:10:85:f3:ff:39:be:71:91:
+        96:fa:9f:26:51:d0:63:9e:b1:8e:7e:f1:a1:36:97:e6:c9:a4:
+        d8:d1:4b:d5:36:b9:32:49:2e:ac:00:59:76:96:3c:f9:41:dc:
+        15:31:cf:81:68:a0:93:e6:67:f5:7a:da:41:a2:fc:90:a6:0e:
+        7c:42:09:1a:43:62:d9:73:85:2b:4b:c7:71:4e:dc:1a:d1:c9:
+        23:00:8b:61:38:85:06:d0:57:b1:31:ba:70:52:f1:21:51:e7:
+        43:aa:32:b0:14:40:ed:02:e3:f6:f1:99:cf:ec:8e:fd:ee:a2:
+        3d:51:eb:07:59:18:9e:e9:e6:06:b3:d1:97:5e:c6:48:1f:3b:
+        a3:b0:66:84:57:bc:f9:bb:3f:8c:c6:b3:b0:73:32:8c:5d:83:
+        8a:58:4a:34:c3:27:9e:97:2e:89:5e:b3:03:c8:8f:46:6c:c8:
+        0c:49:19:71:75:4a:9a:46:62:5d:d9:af:a0:34:a0:85:d0:ff:
+        0f:01:8b:dc:b6:51:94:75:08:3f:6e:d1:88:d6:84:d4:74:6d:
+        d4:bc:90:b6:3e:d3:1a:23:ae:de:46:de:ad:8a:d2:dc:9d:b9:
+        66:38:5d:20:90:0d:01:b0:51:40:42:ad:af:ca:ce:92:c2:cc:
+        01:8e:63:f6:4b:67:27:28:f8:a5:50:0a:e8:84:c0:cc:54:d1:
+        1b:a6:a5:f5:26:c3:f4:d4:a4:55:0e:17:2f:fa:cd:1a:f3:1b:
+        e5:5e:89:54:7f:2f:df:61:3a:08:ee:70:f7:1c:12:7e:43:eb:
+        89:e9:4d:7f:f0:71:c2:9e:62:af:8c:9e:7d:1f:e8:10:b6:bf:
+        58:bb:47:a3:56:bd:d6:c9:03:0e:85:77:f2:65:8a:9f:c4:79:
+        7b:d8:1f:b4:81:26:6d:c0:32:00:64:d4:53:9f:a0:87:0e:36:
+        06:10:37:c5:35:ae:01:b1:e2:74:4c:29:1a:df:e3:e8:93:92:
+        2f:b5:93:f5:3a:ff:a1:ea:63:2e:a0:0a:79:f6:4d:ba:ca:75:
+        e9:c5:1f:bb:7a:db:9d:dd
+-----BEGIN CERTIFICATE-----
+MIIGJDCCBAygAwIBAgIUK3qE1rbGdR7aO0wi63kt6CUL+7QwDQYJKoZIhvcNAQEL
+BQAwgZkxCzAJBgNVBAYTAlNVMRMwEQYDVQQIDApMb3MgUm9ibGVzMRQwEgYDVQQH
+DAtTYW50w61wb2xpczEaMBgGA1UECgwRU3VwZXIgU2FudGkgQ29ycC4xQzBBBgNV
+BAMMOkF1dG9yaWRhZCBkZSBjZXJ0aWZpY2FjacOzbiBpbnRlcm1lZGlhIC0gU3Vw
+ZXIgU2FudGkgQ29ycC4wHhcNMjYwMzI1MDM1MTEwWhcNMjcwMzI1MDM1MTEwWjCB
+sDELMAkGA1UEBhMCU1UxGTAXBgNVBAgMEElzYWJlbGdyYWRvIEQuRi4xGTAXBgNV
+BAcMEElzYWJlbGdyYWRvIEQuRi4xGjAYBgNVBAoMEVN1cGVyIFNhbnRpIENvcnAu
+MSUwIwYDVQQDDBxUcmlidW5hbCBGZWRlcmFsIGRlIFNhbnRpbmlhMSgwJgYJKoZI
+hvcNAQkBFhlzdXBlcnNhbnRpLmNvcnBAZ21haWwuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAiyLlAlhiNII/SuGvJ+w6go+hw86KsSgT6gHh6spY
+JfAD0eO+GY1x2REM6Q3ouRNHSr8p4I31+s4IG0a822lf6HueRhwPFQWkKKE9BaIE
+gii82Us9Rh/+JDEkdVOYHou31jz2iStsby54YNOii+MlduEqwyhTB+/3OKNwlPYj
+lF0oCbpEzQaZ93ki47S0Qm9AFVLL8BXSKqsmhJC/DuAXWII7HwlgRH7yCQ5lfPgm
+8KEnJQhqV9g9I1C1yp+7yqq2o/KjNmQ7PLFMc8JOGXs0RXKwqhxfbUkCMneThiIR
+5SzhJ2zpnosDL3Wo3txnEfhFTBB5mnyRMYxNstVEL/G6FQIDAQABo4IBSTCCAUUw
+DAYDVR0TAQH/BAIwADAOBgNVHQ8BAf8EBAMCBeAwEwYDVR0lBAwwCgYIKwYBBQUH
+AwQwHQYDVR0OBBYEFPKIVBJo6dUtuhbfzHRyFOTw3pRqMB8GA1UdIwQYMBaAFL4Y
+/dNQK71SKYa6z2saHOJJQBhwMCQGA1UdEQQdMBuBGXN1cGVyc2FudGkuY29ycEBn
+bWFpbC5jb20wgakGA1UdHwSBoTCBnjBLoEmgR4ZFaHR0cDovL3NzYy1hdGVzdGls
+b2ouemFwdG8ub3JnL2luZm8tY2VydGlmaWNhZG9zL2NlcnRpZmljYWRvcy1zc2Mu
+Y3JsME+gTaBLhklodHRwczovL3N1cGVyLXNhbnRpLWNvcnAuZ2l0aHViLmlvL2lu
+Zm8tY2VydGlmaWNhZG9zL2NlcnRpZmljYWRvcy1zc2MuY3JsMA0GCSqGSIb3DQEB
+CwUAA4ICAQC9iOL/a4fBx1uVljIR/OGrvRtBy3CYzXIioiPbbL19Mxnbm8LT1G6P
+o1FHuKiXLE+CfyawZf5m3vhiiuov66hjIrpvqRdqRAVbkeafWZLoe3FefTC+0L/u
+FHxC+YGmdfRa2GqAltOE8dEjD7/0l1UGNlKqehazEIXz/zm+cZGW+p8mUdBjnrGO
+fvGhNpfmyaTY0UvVNrkySS6sAFl2ljz5QdwVMc+BaKCT5mf1etpBovyQpg58Qgka
+Q2LZc4UrS8dxTtwa0ckjAIthOIUG0FexMbpwUvEhUedDqjKwFEDtAuP28ZnP7I79
+7qI9UesHWRie6eYGs9GXXsZIHzujsGaEV7z5uz+MxrOwczKMXYOKWEo0wyeely6J
+XrMDyI9GbMgMSRlxdUqaRmJd2a+gNKCF0P8PAYvctlGUdQg/btGI1oTUdG3UvJC2
+PtMaI67eRt6titLcnblmOF0gkA0BsFFAQq2vys6SwswBjmP2S2cnKPilUArohMDM
+VNEbpqX1JsP01KRVDhcv+s0a8xvlXolUfy/fYToI7nD3HBJ+Q+uJ6U1/8HHCnmKv
+jJ59H+gQtr9Yu0ejVr3WyQMOhXfyZYqfxHl72B+0gSZtwDIAZNRTn6CHDjYGEDfF
+Na4BseJ0TCka3+Pok5IvtZP1Ov+h6mMuoAp59k26ynXpxR+7etud3Q==
+-----END CERTIFICATE-----
