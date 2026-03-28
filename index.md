@@ -17,24 +17,26 @@ title: Bienvenido al periódico "La Lucha"
 * [Segundo Aniversario del Neosantinismo va bien, pero Manuel Garzón exige elecciones](/2025/02/times_02-01-2025.md#segundo-aniversario-del-neosantinismo-va-bien-pero-manuel-garzón-exige-elecciones)
 -->
 
-## Resultados electorales
-
-* [Elecciones Generales de Comité Central 2024](/2024/10/times_10-20-2024.md#resultados-de-las-elecciones-vicepresidente-general)
-
-## Informes económicos
-
-* [Enero-Junio 2024](/2024/06/times_06-17-2024.md#la-relación-con-oscarlandia-sigue-agridulce-fin-del-primer-plan-semestral)
-* [Julio-Diciembre 2024](/2024/11/times_11-26-2024.md#la-relación-con-oscarlandia-es-excelente-fin-del-segundo-plan-semestral)
-* [Enero-Junio 2025](/2025/06/times_06-14-2025.md#las-relaciones-con-oscarlandia-y-nuevos-aliados-van-viento-en-popa-inicia-el-segundo-plan-trimestral-estatal-de-2025)
-* [Julio-Diciembre 2025](/2025/11/20251130.md#santinia-se-despidió-de-la-sai-fin-del-procedimiento-internacional-del-cuarto-plan-trimestral-estatal)
-
-### Resumen gráfico de 2024
-
-![Gráfico de ingresos internacionales: 2024](./economic-chart-2024.jpg)
-
 ## Navega por nuestros artículos
 
 * [Artículos de 2023](2023)
 * [Artículos de 2024](2024)
 * [Artículos de 2025](2025)
 * [Artículos de 2026](2026)
+
+## Economía internacional
+
+### Resumen gráfico
+
+![Gráfico de ingresos internacionales](./ingresos.jpg)
+
+### Informes económicos
+
+* [Enero-Junio 2024](/2024/06/times_06-17-2024.md#la-relación-con-oscarlandia-sigue-agridulce-fin-del-primer-plan-semestral)
+* [Julio-Diciembre 2024](/2024/11/times_11-26-2024.md#la-relación-con-oscarlandia-es-excelente-fin-del-segundo-plan-semestral)
+* [Enero-Junio 2025](/2025/06/times_06-14-2025.md#las-relaciones-con-oscarlandia-y-nuevos-aliados-van-viento-en-popa-inicia-el-segundo-plan-trimestral-estatal-de-2025)
+* [Julio-Diciembre 2025](/2025/11/20251130.md#santinia-se-despidió-de-la-sai-fin-del-procedimiento-internacional-del-cuarto-plan-trimestral-estatal)
+
+## Resultados electorales
+
+* [Elecciones Generales de Comité Central 2024](/2024/10/times_10-20-2024.md#resultados-de-las-elecciones-vicepresidente-general)
